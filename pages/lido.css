@@ -118,6 +118,7 @@ table{
     padding: 7px;
     border: 1px solid transparent;
 }
+
 .top:hover{
     border: 1px solid black;
 }
